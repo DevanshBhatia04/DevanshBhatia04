@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevanshBhatia04
 - 👀 I’m interested in Full stack developer jobs
 - 🌱 I’m currently learning Computer Applications
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI Projects
 - 📫 Reach me through my Email divinedev04@gmail.com
 - 😄 Pronouns: Dev
 - ⚡ Fun fact: i Do Music Occasionally.
